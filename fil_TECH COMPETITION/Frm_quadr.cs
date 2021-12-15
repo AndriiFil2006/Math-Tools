@@ -22,7 +22,7 @@ namespace fil_TECH_COMPETITION
         public double discriminant(double a, double b, double c)
         {
             double result = 0;
-            result = Math.Pow(b, 2) - 4 * a * c;
+            result = (Math.Pow(b, 2)) - (4 * a * c);
             return result;
         }
 
@@ -135,16 +135,16 @@ namespace fil_TECH_COMPETITION
                         res2 = Math.Round((-b - Math.Sqrt(discriminant(a, b, c))) / (2 * a), 2);
 
                         listBox1.Items.Add("x₁ = " + res1 + " or (" + (-b) + " + √" + Math.Round((discriminant(a, b, c)), 2) + ") / " + 2 * a);
-                        listBox1.Items.Add("x₂ = " + res2 + " or (" + (-b) + " + -√" + Math.Round((discriminant(a, b, c)), 2) + ") / " + 2 * a);
+                        listBox1.Items.Add("x₂ = " + res2 + " or (" + (-b) + " + -√" + Math.Round((-discriminant(a, b, c)), 2) + ") / " + 2 * a);
                         listBox1.Items.Add("");
                     }
-                    else if (discriminant(a, b, c) == 0)
+                    if (discriminant(a, b, c) == 0)
                     {
                         res1 = -b / 2 * a;
                         listBox1.Items.Add("there's only 1 solution: x = " + res1);
                         listBox1.Items.Add("");
                     }
-                    else
+                    else if(discriminant(a,b,c) < 0)
                     {
                         listBox1.Items.Add("In this case< there's no clear answer");
                         listBox1.Items.Add("i - imaginary number that equal √-1");
@@ -152,8 +152,8 @@ namespace fil_TECH_COMPETITION
                         res1 = Math.Round((-b + Math.Sqrt(-discriminant(a, b, c))) / (2 * a), 2);
                         res2 = Math.Round((-b - Math.Sqrt(-discriminant(a, b, c))) / (2 * a), 2);
 
-                        listBox1.Items.Add("x₁ = i * " + res1 + " or (" + (-b) + " + i√" + Math.Round((discriminant(a, b, c)), 2) + ") / " + 2 * a);
-                        listBox1.Items.Add("x₂ = i * " + res2 + " or (" + (-b) + " + i√" + Math.Round((-discriminant(a, b, c)), 2) + ") / " + 2 * a);
+                        listBox1.Items.Add("x₁ = i * " + res1 + " or (" + (-b) + " + i√" + Math.Round((-discriminant(a, b, c)), 2) + ") / " + 2 * a);
+                        listBox1.Items.Add("x₂ = i * " + res2 + " or (" + (-b) + " - i√" + Math.Round((-discriminant(a, b, c)), 2) + ") / " + 2 * a);
                         listBox1.Items.Add("");
                     }
                 }

@@ -382,8 +382,8 @@ namespace fil_TECH_COMPETITION
                         }*/
                         if (Math.Abs(i) <= 50)
                         {
-                            listBox1.Items.Add("X: " + (x[i + num_dots / 2]) + " Y: " + (y[i + num_dots / 2]));
-                        }
+                            listBox1.Items.Add("X: " + (x[i + num_dots / 2]) + "                                        Y: " + (y[i + num_dots / 2]));
+                        }   
                     }
 
                     double mult_x = get_mult_x(minx, maxx);
@@ -475,7 +475,7 @@ namespace fil_TECH_COMPETITION
                         }
                         if (Math.Abs(i) <= 50)
                         {
-                            listBox1.Items.Add("X: " + Math.Round((x[i + num_dots / 2] - graphics.Width / 2), 2) + " Y: " + Math.Round(y[i + num_dots / 2], 2));
+                            listBox1.Items.Add("X: " + Math.Round((x[i + num_dots / 2] - graphics.Width / 2), 2) + "                                         Y: " + Math.Round(y[i + num_dots / 2], 2));
                         }
                     }
                     double mult_x = get_mult_x(minx, maxx);
@@ -603,7 +603,7 @@ namespace fil_TECH_COMPETITION
                             maxy = y[i + num_dots / 2];
                         }
                         if(Math.Abs(i) <= 50)
-                        listBox1.Items.Add("X: " + Math.Round((x[i + num_dots / 2] - graphics.Width / 2), 2) + " Y: " + Math.Round(y[i + num_dots / 2], 2));
+                        listBox1.Items.Add("X: " + Math.Round((x[i + num_dots / 2] - graphics.Width / 2), 2) + "                                         Y: " + Math.Round(y[i + num_dots / 2], 2));
 
                     }
 

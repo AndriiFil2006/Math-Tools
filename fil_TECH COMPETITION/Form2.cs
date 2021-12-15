@@ -27,11 +27,11 @@ namespace fil_TECH_COMPETITION
             dataGridView1.Rows[0].Cells[0].ReadOnly = true;
             // dataGridView1.AutoResizeColumns();
             dataGridView1.Rows[0].Cells[0].Style.BackColor = Color.Gray;
-            for(int i = 0; i < dataGridView1.RowCount - 1; i++)
+            for(int i = 1; i < dataGridView1.RowCount - 1; i++)
             {
                 dataGridView1.Rows[i].Cells[0].Style.BackColor = Color.Yellow;
             }
-            for (int i = 0; i < dataGridView1.ColumnCount - 1; i++)
+            for (int i = 1; i < dataGridView1.ColumnCount - 1; i++)
             {
                 dataGridView1.Rows[0].Cells[i].Style.BackColor = Color.Yellow;
             }
