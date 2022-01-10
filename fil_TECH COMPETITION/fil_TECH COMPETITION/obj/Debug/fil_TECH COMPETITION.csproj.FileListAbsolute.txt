@@ -1,0 +1,28 @@
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.csprojAssemblyReference.cache
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Properties.Resources.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.csproj.GenerateResource.cache
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.csproj.CoreCompileInputs.cache
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\bin\Debug\fil_TECH COMPETITION.exe.config
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\bin\Debug\fil_TECH COMPETITION.exe
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\bin\Debug\fil_TECH COMPETITION.pdb
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.exe
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.pdb
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Form1.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Probability.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Frm_quadr.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Form_graphics.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\project\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Form_info.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\bin\Debug\fil_TECH COMPETITION.exe.config
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\bin\Debug\fil_TECH COMPETITION.exe
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\bin\Debug\fil_TECH COMPETITION.pdb
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.csprojAssemblyReference.cache
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Form1.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Probability.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Form_graphics.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Form_info.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Frm_quadr.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH_COMPETITION.Properties.Resources.resources
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.csproj.GenerateResource.cache
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.csproj.CoreCompileInputs.cache
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.exe
+D:\work\!!!!!!!!!!!!!!____Андрей ЛИТ\Костик\Math-Tools\fil_TECH COMPETITION\fil_TECH COMPETITION\obj\Debug\fil_TECH COMPETITION.pdb
